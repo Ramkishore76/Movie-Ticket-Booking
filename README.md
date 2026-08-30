@@ -128,8 +128,8 @@ CineWave Entertainment – Booking Support Team
 
 ## 👨‍💻 Author & Repository
 
-* **Author:** Sanjay S ([@Sanjay8555](https://github.com/Sanjay8555))
-* **Repository:** [Movie_Ticket_Booking](https://github.com/Sanjay8555/Movie_Ticket_Booking)
+* **Author:** Ramkishore S M ([@Sanjay8555](https://github.com/Ramkishore76))
+* **Repository:** [Movie-Ticket-Booking](https://github.com/Ramkishore76/Movie-Ticket-Booking)
 
 ---
 
