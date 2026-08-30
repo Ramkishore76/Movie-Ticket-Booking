@@ -128,7 +128,7 @@ CineWave Entertainment – Booking Support Team
 
 ## 👨‍💻 Author & Repository
 
-* **Author:** Ramkishore S M ([@Sanjay8555](https://github.com/Ramkishore76))
+* **Author:** Ramkishore S M ([@Ramkishore76](https://github.com/Ramkishore76))
 * **Repository:** [Movie-Ticket-Booking](https://github.com/Ramkishore76/Movie-Ticket-Booking)
 
 ---
